@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "awards": {
+      "type": "http",
+      "url": "https://awards.winemcp.com/mcp"
+    }
+  }
+}

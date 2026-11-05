@@ -1,0 +1,13 @@
+{
+  "name": "gcmead-awards",
+  "owner": { "name": "Gavin Mead", "url": "https://github.com/gcmead" },
+  "metadata": { "description": "Award-flight trip planning with points and miles" },
+  "plugins": [
+    {
+      "name": "awards",
+      "source": "./",
+      "description": "The award-trip skill and the Awards connector (sweep, profile, transfer paths, saved trips).",
+      "version": "1.0.0"
+    }
+  ]
+}

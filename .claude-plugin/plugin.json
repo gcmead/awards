@@ -1,0 +1,19 @@
+{
+  "name": "awards",
+  "version": "1.0.0",
+  "description": "Award-flight trip planning with points and miles: the award-trip skill plus the Awards connector.",
+  "author": {
+    "name": "Gavin Mead",
+    "url": "https://github.com/gcmead"
+  },
+  "homepage": "https://github.com/gcmead/awards",
+  "repository": "https://github.com/gcmead/awards",
+  "keywords": [
+    "travel",
+    "award-flights",
+    "points",
+    "miles",
+    "seats.aero"
+  ],
+  "license": "MIT"
+}
